@@ -18,7 +18,7 @@
 .sidebar-list-two li a:hover,
 #ajax-form button:hover,
 #cd-zoom-in, #cd-zoom-out{
-	background-color: #363dc2;
+	background-color: #b07d62;
 }
 .cbp-af-header.cbp-af-header-shrink .menu ul li ul li a.curent-multi-page,
 .cbp-af-header.cbp-af-header-shrink .menu ul li ul li a.curent-multi-page:hover,
@@ -29,43 +29,44 @@
 .page-title .text-up,
 .page-title h5,
 .about-wrap .about-icon,
+.about-wrap h6,
 .quote h4,
 .num-of-com span,
 .comm-link,
 .sidebar-list-one li a:hover,
 .comment a{
-	color:#6e73d7;
+	color:#9c6644;
 }
 .menu ul li:hover a.shadow-hover{
-	text-shadow: -7px 6px 0 #202692;
+	text-shadow: -7px 6px 0 #3b1800;
 }
 .menu ul li a.curent-shadow{
-	text-shadow: -7px 6px 0 #202692;
+	text-shadow: -7px 6px 0 #3b1800;
 }
 .content__link,
 .home-text-freelance h2 span,
 .subscribe button:hover{
-	color:#202692;
+	color:#01020e;
 }
 .decoshape.arrow-top,
 .content__link:hover .decoshape {
-	fill: #202692;
+	fill: #3a1801;
 }
 .content .content__mask{
-	background-color: #363dc2;
+	background-color: rgb(139, 129, 129);
 }
 .morph {
-	fill: #282faf;
+	fill: #9d6b53;
 }
 .list-social-footer li:hover{
-	background-color: #202692;
+	background-color: #3b1800;
 }
 .portfolio-box-1 .text-on-hover,
 .case-study-wrapper li a span,
 .home-text-freelance .link,
 .tipper .tipper-content,
 .team-wrap h6 {
-	text-shadow: -5px 4px 0 #202692;
+	text-shadow: -5px 4px 0 #3b1800;
 }
 #filter li a:hover,
 #filter li .current,
@@ -73,20 +74,20 @@
 	text-shadow: -7px 5px 0 rgba(54,61,194,.3);
 }
 .home-text-freelance.shadow-text h2{
-	text-shadow: -9px 7px 0 #202692;
+	text-shadow: -9px 7px 0 #3b1800;
 }
 .home-video {	
-	outline: 1px double #363dc2;
+	outline: 1px double #3b1800;
 }
 figure.vimeo a:before, figure.youtube a:before {
-	border-left: 10px solid #363dc2;
+	border-left: 10px solid #3b1800;
 }
 figure.vimeo:hover a:after, figure.youtube:hover a:after {
-	background:#363dc2;
+	background:#3b1800;
 }
 .tooltip__shape,
 .tooltip--sadoc .tooltip__shape path {
-	fill: #363dc2;
+	fill: #c2b936;
 }
 .tooltip--sadoc .tooltip__shape path {
 	stroke: rgba(54,61,194,.3);

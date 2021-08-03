@@ -17,13 +17,13 @@
 	var selectors = new Selector_Cache();
 
 
-	//Preloader
+	// //Preloader
 
 	Royal_Preloader.config({
         mode:        'scale_text',
-        text:        'Morvika Parmar',
+        text:        'Morvika Parmar Portfolio',
         text_colour: '#FFFFFF',
-		background:  '#363dc2'
+		background:  '#b07d62'
 	});
 
 	
